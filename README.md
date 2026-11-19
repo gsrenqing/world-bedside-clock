@@ -1,10 +1,48 @@
-# World Bedside Clock（世界床头钟）
+# World Bedside Clock
+
+A Windows desktop widget **world clock / bedside clock** with multi-city timezone display, skin switching, a city picker dialog, and a bilingual (Chinese/English) interface.
+
+- Version: **v5.6.6**
+- Runtime: Windows 10 / 11 (.NET Framework 4.x)
+- Stack: C# / WinForms
+
+## Repository Layout
+
+```
+├─ 源码/            # C# sources, fonts, skin assets, city/timezone data, compile.rsp
+├─ 成品/            # Compiled World bedside clock 5.6.6.exe and notes
+├─ LICENSE          # GPL-3.0
+└─ README.md
+```
+
+## Build from Source
+
+Use the .NET Framework built-in `csc.exe` (no Visual Studio required):
+
+```powershell
+cd 源码
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe @compile.rsp
+```
+
+## Run
+
+Double-click `成品\World bedside clock 5.6.6.exe`.
+
+## Data Sources
+
+- City/timezone data: GeoNames geographic database under CC-BY 4.0 (geonames.org)
+- Chinese administrative divisions: codes from the Ministry of Civil Affairs of the PRC
+- Artwork inspired by the bedside clock 2 widget in Coolfish Desktop / XWidgets; thanks to the original author Jimking
+
+## License
+
+This project is open-sourced under **GPL-3.0**; see [LICENSE](LICENSE). For non-commercial study and testing only. The author is not liable for any issues arising from its use and does not commit to future upgrades.
+
+---
+
+# 中文说明
 
 一款 Windows 桌面挂件式 **世界时钟 / 床头钟**，支持多城市时区显示、皮肤切换、城市选择对话框与中英文界面。
-
-- 当前版本：**v5.6.6**
-- 运行环境：Windows 10 / 11（.NET Framework 4.x）
-- 技术栈：C# / WinForms
 
 ## 目录结构
 
