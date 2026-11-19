@@ -1,0 +1,26 @@
+# ---- 编译与临时产物 ----
+*.log
+*.tmp
+*.bak
+*.user
+*.suo
+*.pdb
+*.cache
+[Dd]ebug/
+[Rr]elease/
+obj/
+bin/
+
+# ---- 系统与编辑器 ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vs/
+.idea/
+*.swp
+
+# ---- 测试/调试临时目录 ----
+_test/
+debug_src/
+probe_*.exe
+smoke_*.exe

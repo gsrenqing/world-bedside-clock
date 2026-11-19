@@ -1,0 +1,171 @@
+中国|China|China Standard Time
+日本|Japan|Tokyo Standard Time
+韩国|Korea|Korea Standard Time
+朝鲜|North Korea|North Korea Standard Time
+蒙古|Mongolia|Ulaanbaatar Standard Time
+新加坡|Singapore|Singapore Standard Time
+马来西亚|Malaysia|Singapore Standard Time
+印度尼西亚|Indonesia|SE Asia Standard Time;Singapore Standard Time;Tokyo Standard Time
+泰国|Thailand|SE Asia Standard Time
+越南|Vietnam|SE Asia Standard Time
+柬埔寨|Cambodia|SE Asia Standard Time
+老挝|Laos|SE Asia Standard Time
+缅甸|Myanmar|Myanmar Standard Time
+菲律宾|Philippines|Singapore Standard Time
+印度|India|India Standard Time
+巴基斯坦|Pakistan|Pakistan Standard Time
+孟加拉国|Bangladesh|Bangladesh Standard Time
+斯里兰卡|Sri Lanka|Sri Lanka Standard Time
+尼泊尔|Nepal|Nepal Standard Time
+不丹|Bhutan|Bangladesh Standard Time
+马尔代夫|Maldives|West Asia Standard Time
+阿富汗|Afghanistan|Afghanistan Standard Time
+哈萨克斯坦|Kazakhstan|West Asia Standard Time;Central Asia Standard Time;West Kazakhstan Standard Time;Qyzylorda Standard Time
+乌兹别克斯坦|Uzbekistan|West Asia Standard Time
+土库曼斯坦|Turkmenistan|West Asia Standard Time
+塔吉克斯坦|Tajikistan|West Asia Standard Time
+吉尔吉斯斯坦|Kyrgyzstan|Central Asia Standard Time
+伊朗|Iran|Iran Standard Time
+伊拉克|Iraq|Arabic Standard Time
+沙特阿拉伯|Saudi Arabia|Arab Standard Time
+阿联酋|United Arab Emirates|Arabian Standard Time
+卡塔尔|Qatar|Arab Standard Time
+科威特|Kuwait|Arab Standard Time
+巴林|Bahrain|Arab Standard Time
+阿曼|Oman|Arabian Standard Time
+也门|Yemen|Arab Standard Time
+约旦|Jordan|Jordan Standard Time
+黎巴嫩|Lebanon|Middle East Standard Time
+叙利亚|Syria|Syria Standard Time
+以色列|Israel|Israel Standard Time
+巴勒斯坦|Palestine|Israel Standard Time
+土耳其|Turkey|Turkey Standard Time
+塞浦路斯|Cyprus|GTB Standard Time
+阿塞拜疆|Azerbaijan|Azerbaijan Standard Time
+格鲁吉亚|Georgia|Georgian Standard Time
+亚美尼亚|Armenia|Caucasus Standard Time
+文莱|Brunei|Singapore Standard Time
+东帝汶|East Timor|Tokyo Standard Time
+英国|United Kingdom|GMT Standard Time
+爱尔兰|Ireland|GMT Standard Time
+法国|France|Romance Standard Time
+德国|Germany|W. Europe Standard Time
+意大利|Italy|W. Europe Standard Time
+西班牙|Spain|Romance Standard Time
+葡萄牙|Portugal|GMT Standard Time
+荷兰|Netherlands|W. Europe Standard Time
+比利时|Belgium|Romance Standard Time
+卢森堡|Luxembourg|W. Europe Standard Time
+瑞士|Switzerland|W. Europe Standard Time
+奥地利|Austria|W. Europe Standard Time
+丹麦|Denmark|Romance Standard Time
+挪威|Norway|W. Europe Standard Time
+瑞典|Sweden|W. Europe Standard Time
+芬兰|Finland|FLE Standard Time
+冰岛|Iceland|Greenwich Standard Time
+俄罗斯|Russia|Russian Standard Time;Russia Time Zone 3;Ekaterinburg Standard Time;Omsk Standard Time;Novosibirsk Standard Time;North Asia Standard Time;North Asia East Standard Time;Yakutsk Standard Time;Vladivostok Standard Time;Magadan Standard Time;Kamchatka Standard Time
+乌克兰|Ukraine|FLE Standard Time
+白俄罗斯|Belarus|Belarus Standard Time
+波兰|Poland|Central Europe Standard Time
+捷克|Czech Republic|Central Europe Standard Time
+斯洛伐克|Slovakia|Central Europe Standard Time
+匈牙利|Hungary|Central Europe Standard Time
+罗马尼亚|Romania|GTB Standard Time
+保加利亚|Bulgaria|FLE Standard Time
+希腊|Greece|GTB Standard Time
+塞尔维亚|Serbia|Central Europe Standard Time
+克罗地亚|Croatia|Central Europe Standard Time
+斯洛文尼亚|Slovenia|Central Europe Standard Time
+波黑|Bosnia and Herzegovina|Central Europe Standard Time
+黑山|Montenegro|Central Europe Standard Time
+北马其顿|North Macedonia|Central Europe Standard Time
+阿尔巴尼亚|Albania|Central Europe Standard Time
+爱沙尼亚|Estonia|FLE Standard Time
+拉脱维亚|Latvia|FLE Standard Time
+立陶宛|Lithuania|FLE Standard Time
+摩尔多瓦|Moldova|GTB Standard Time
+马耳他|Malta|W. Europe Standard Time
+摩纳哥|Monaco|W. Europe Standard Time
+安道尔|Andorra|Romance Standard Time
+列支敦士登|Liechtenstein|W. Europe Standard Time
+圣马力诺|San Marino|W. Europe Standard Time
+梵蒂冈|Vatican|W. Europe Standard Time
+埃及|Egypt|Egypt Standard Time
+利比亚|Libya|Libya Standard Time
+阿尔及利亚|Algeria|W. Central Africa Standard Time
+摩洛哥|Morocco|Morocco Standard Time
+突尼斯|Tunisia|W. Central Africa Standard Time
+尼日利亚|Nigeria|W. Central Africa Standard Time
+南非|South Africa|South Africa Standard Time
+肯尼亚|Kenya|E. Africa Standard Time
+埃塞俄比亚|Ethiopia|E. Africa Standard Time
+坦桑尼亚|Tanzania|E. Africa Standard Time
+乌干达|Uganda|E. Africa Standard Time
+加纳|Ghana|GMT Standard Time
+科特迪瓦|Cote d'Ivoire|GMT Standard Time
+塞内加尔|Senegal|GMT Standard Time
+喀麦隆|Cameroon|W. Central Africa Standard Time
+安哥拉|Angola|W. Central Africa Standard Time
+苏丹|Sudan|Central Africa Standard Time
+南苏丹|South Sudan|E. Africa Standard Time
+刚果金|DR Congo|W. Central Africa Standard Time;South Africa Standard Time
+刚果布|Republic of the Congo|W. Central Africa Standard Time
+赞比亚|Zambia|South Africa Standard Time
+津巴布韦|Zimbabwe|South Africa Standard Time
+莫桑比克|Mozambique|South Africa Standard Time
+博茨瓦纳|Botswana|South Africa Standard Time
+纳米比亚|Namibia|Namibia Standard Time
+卢旺达|Rwanda|South Africa Standard Time
+乌干达|Uganda|E. Africa Standard Time
+马里|Mali|GMT Standard Time
+尼日尔|Niger|W. Central Africa Standard Time
+乍得|Chad|W. Central Africa Standard Time
+索马里|Somalia|E. Africa Standard Time
+吉布提|Djibouti|E. Africa Standard Time
+厄立特里亚|Eritrea|E. Africa Standard Time
+毛里求斯|Mauritius|Mauritius Standard Time
+塞舌尔|Seychelles|Mauritius Standard Time
+马达加斯加|Madagascar|E. Africa Standard Time
+美国|United States|Eastern Standard Time;Central Standard Time;Mountain Standard Time;US Mountain Standard Time;Pacific Standard Time;Alaskan Standard Time;Hawaiian Standard Time
+加拿大|Canada|Eastern Standard Time;Central Standard Time;Mountain Standard Time;Pacific Standard Time;Atlantic Standard Time;Newfoundland Standard Time
+墨西哥|Mexico|Central Standard Time;Mountain Standard Time;US Mountain Standard Time;Pacific Standard Time
+巴西|Brazil|E. South America Standard Time;Central Brazilian Standard Time;SA Western Standard Time;SA Pacific Standard Time
+阿根廷|Argentina|Argentina Standard Time
+智利|Chile|Pacific SA Standard Time
+秘鲁|Peru|SA Pacific Standard Time
+哥伦比亚|Colombia|SA Pacific Standard Time
+委内瑞拉|Venezuela|Venezuela Standard Time
+玻利维亚|Bolivia|SA Western Standard Time
+厄瓜多尔|Ecuador|SA Pacific Standard Time
+乌拉圭|Uruguay|Montevideo Standard Time
+巴拉圭|Paraguay|Paraguay Standard Time
+古巴|Cuba|Cuba Standard Time
+巴拿马|Panama|SA Pacific Standard Time
+哥斯达黎加|Costa Rica|Central America Standard Time
+危地马拉|Guatemala|Central America Standard Time
+萨尔瓦多|El Salvador|Central America Standard Time
+洪都拉斯|Honduras|Central America Standard Time
+尼加拉瓜|Nicaragua|Central America Standard Time
+牙买加|Jamaica|SA Pacific Standard Time
+巴哈马|Bahamas|Eastern Standard Time
+多米尼加|Dominican Republic|SA Western Standard Time
+海地|Haiti|Eastern Standard Time
+波多黎各|Puerto Rico|SA Western Standard Time
+特立尼达|Trinidad and Tobago|SA Western Standard Time
+圭亚那|Guyana|SA Western Standard Time
+苏里南|Suriname|SA Eastern Standard Time
+澳大利亚|Australia|AUS Eastern Standard Time;E. Australia Standard Time;Cen. Australia Standard Time;AUS Central Standard Time;W. Australia Standard Time;Tasmania Standard Time
+新西兰|New Zealand|New Zealand Standard Time
+斐济|Fiji|Fiji Standard Time
+巴布亚新几内亚|Papua New Guinea|West Pacific Standard Time
+汤加|Tonga|Tonga Standard Time
+萨摩亚|Samoa|Samoa Standard Time
+所罗门群岛|Solomon Islands|Central Pacific Standard Time
+瓦努阿图|Vanuatu|Central Pacific Standard Time
+基里巴斯|Kiribati|UTC+12;UTC+14
+帕劳|Palau|Tokyo Standard Time
+密克罗尼西亚|Micronesia|West Pacific Standard Time;Central Pacific Standard Time
+马绍尔群岛|Marshall Islands|UTC+12
+瑙鲁|Nauru|Central Pacific Standard Time
+图瓦卢|Tuvalu|UTC+12
+中华人民共和国|P·R CHINA|China Standard Time

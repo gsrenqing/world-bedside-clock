@@ -1,0 +1,27 @@
+/target:winexe
+/out:"World bedside clock 5.6.6.exe"
+/win32icon:Icon.ico
+/r:System.Windows.Forms.dll
+/r:System.Drawing.dll
+/r:System.Xml.dll
+/resource:"silver.png",silver.png
+/resource:"rosegold.png",rosegold.png
+/resource:"black.png",black.png
+/resource:"qinghua.png",qinghua.png
+/resource:"digital display tfb.ttf","digital display tfb.ttf"
+/resource:"TEXASLED.TTF",TEXASLED.TTF
+/resource:"AuraDianZhenSong-2 subset.ttf","AuraDianZhenSong-2 subset.ttf"
+/resource:"date.ttf",date.ttf
+/resource:aura_chars.txt,aura_chars.txt
+/resource:capitals.txt,capitals.txt
+/resource:chinadist.txt,chinadist.txt
+/resource:worldcities2.txt,worldcities2.txt
+/resource:cn_table.txt,cn_table.txt
+/resource:pinyin.txt,pinyin.txt
+/resource:cn_admin.txt,cn_admin.txt
+/resource:countries.txt,countries.txt
+/resource:states.txt,states.txt
+Program.cs
+ClockForm.cs
+TimeZoneMatcher.cs
+CityDialog.cs

@@ -1,0 +1,302 @@
+东京|Tokyo|Tokyo Standard Time
+大阪|Osaka|Tokyo Standard Time
+京都|Kyoto|Tokyo Standard Time
+名古屋|Nagoya|Tokyo Standard Time
+横滨|Yokohama|Tokyo Standard Time
+神户|Kobe|Tokyo Standard Time
+福冈|Fukuoka|Tokyo Standard Time
+札幌|Sapporo|Tokyo Standard Time
+首尔|Seoul|Korea Standard Time
+釜山|Busan|Korea Standard Time
+仁川|Incheon|Korea Standard Time
+平壤|Pyongyang|North Korea Standard Time
+乌兰巴托|Ulaanbaatar|Ulaanbaatar Standard Time
+新加坡|Singapore|Singapore Standard Time
+吉隆坡|Kuala Lumpur|Singapore Standard Time
+槟城|Penang|Singapore Standard Time
+雅加达|Jakarta|SE Asia Standard Time
+万隆|Bandung|SE Asia Standard Time
+泗水|Surabaya|Singapore Standard Time
+曼谷|Bangkok|SE Asia Standard Time
+清迈|Chiang Mai|SE Asia Standard Time
+河内|Hanoi|SE Asia Standard Time
+胡志明市|Ho Chi Minh City|SE Asia Standard Time
+岘港|Da Nang|SE Asia Standard Time
+金边|Phnom Penh|SE Asia Standard Time
+万象|Vientiane|SE Asia Standard Time
+仰光|Rangoon|Myanmar Standard Time
+内比都|Naypyidaw|Myanmar Standard Time
+曼德勒|Mandalay|Myanmar Standard Time
+马尼拉|Manila|Singapore Standard Time
+宿务|Cebu|Singapore Standard Time
+新德里|New Delhi|India Standard Time
+孟买|Mumbai|India Standard Time
+加尔各答|Kolkata|India Standard Time
+班加罗尔|Bangalore|India Standard Time
+金奈|Chennai|India Standard Time
+海得拉巴|Hyderabad|India Standard Time
+艾哈迈达巴德|Ahmedabad|India Standard Time
+伊斯兰堡|Islamabad|Pakistan Standard Time
+卡拉奇|Karachi|Pakistan Standard Time
+拉合尔|Lahore|Pakistan Standard Time
+达卡|Dhaka|Bangladesh Standard Time
+科伦坡|Colombo|Sri Lanka Standard Time
+加德满都|Kathmandu|Nepal Standard Time
+廷布|Thimphu|Bangladesh Standard Time
+马累|Male|West Asia Standard Time
+喀布尔|Kabul|Afghanistan Standard Time
+阿斯塔纳|Astana|Central Asia Standard Time
+阿拉木图|Almaty|Central Asia Standard Time
+塔什干|Tashkent|West Asia Standard Time
+撒马尔罕|Samarkand|West Asia Standard Time
+阿什哈巴德|Ashgabat|West Asia Standard Time
+杜尚别|Dushanbe|West Asia Standard Time
+比什凯克|Bishkek|Central Asia Standard Time
+德黑兰|Tehran|Iran Standard Time
+巴格达|Baghdad|Arabic Standard Time
+利雅得|Riyadh|Arab Standard Time
+吉达|Jeddah|Arab Standard Time
+麦加|Mecca|Arab Standard Time
+阿布扎比|Abu Dhabi|Arabian Standard Time
+迪拜|Dubai|Arabian Standard Time
+多哈|Doha|Arab Standard Time
+科威特城|Kuwait City|Arab Standard Time
+麦纳麦|Manama|Arab Standard Time
+马斯喀特|Muscat|Arabian Standard Time
+萨那|Sanaa|Arab Standard Time
+安曼|Amman|Jordan Standard Time
+贝鲁特|Beirut|Middle East Standard Time
+大马士革|Damascus|Syria Standard Time
+耶路撒冷|Jerusalem|Israel Standard Time
+特拉维夫|Tel Aviv|Israel Standard Time
+安卡拉|Ankara|Turkey Standard Time
+伊斯坦布尔|Istanbul|Turkey Standard Time
+巴库|Baku|Azerbaijan Standard Time
+第比利斯|Tbilisi|Georgian Standard Time
+埃里温|Yerevan|Caucasus Standard Time
+尼科西亚|Nicosia|GTB Standard Time
+斯里巴加湾市|Bandar Seri Begawan|Singapore Standard Time
+帝力|Dili|Tokyo Standard Time
+伦敦|London|GMT Standard Time
+伯明翰|Birmingham|GMT Standard Time
+曼彻斯特|Manchester|GMT Standard Time
+利物浦|Liverpool|GMT Standard Time
+爱丁堡|Edinburgh|GMT Standard Time
+都柏林|Dublin|GMT Standard Time
+巴黎|Paris|Romance Standard Time
+马赛|Marseille|Romance Standard Time
+里昂|Lyon|Romance Standard Time
+尼斯|Nice|Romance Standard Time
+柏林|Berlin|W. Europe Standard Time
+汉堡|Hamburg|W. Europe Standard Time
+慕尼黑|Munich|W. Europe Standard Time
+法兰克福|Frankfurt|W. Europe Standard Time
+科隆|Cologne|W. Europe Standard Time
+斯图加特|Stuttgart|W. Europe Standard Time
+罗马|Rome|W. Europe Standard Time
+米兰|Milan|W. Europe Standard Time
+威尼斯|Venice|W. Europe Standard Time
+那不勒斯|Naples|W. Europe Standard Time
+都灵|Turin|W. Europe Standard Time
+佛罗伦萨|Florence|W. Europe Standard Time
+马德里|Madrid|Romance Standard Time
+巴塞罗那|Barcelona|Romance Standard Time
+瓦伦西亚|Valencia|Romance Standard Time
+塞维利亚|Seville|Romance Standard Time
+里斯本|Lisbon|GMT Standard Time
+波尔图|Porto|GMT Standard Time
+阿姆斯特丹|Amsterdam|W. Europe Standard Time
+鹿特丹|Rotterdam|W. Europe Standard Time
+布鲁塞尔|Brussels|Romance Standard Time
+安特卫普|Antwerp|Romance Standard Time
+卢森堡|Luxembourg|W. Europe Standard Time
+苏黎世|Zurich|W. Europe Standard Time
+日内瓦|Geneva|W. Europe Standard Time
+伯尔尼|Bern|W. Europe Standard Time
+巴塞尔|Basel|W. Europe Standard Time
+维也纳|Vienna|W. Europe Standard Time
+萨尔茨堡|Salzburg|W. Europe Standard Time
+哥本哈根|Copenhagen|Romance Standard Time
+奥斯陆|Oslo|W. Europe Standard Time
+卑尔根|Bergen|W. Europe Standard Time
+斯德哥尔摩|Stockholm|W. Europe Standard Time
+哥德堡|Gothenburg|W. Europe Standard Time
+赫尔辛基|Helsinki|FLE Standard Time
+雷克雅未克|Reykjavik|Greenwich Standard Time
+莫斯科|Moscow|Russian Standard Time
+圣彼得堡|St Petersburg|Russian Standard Time
+新西伯利亚|Novosibirsk|Novosibirsk Standard Time
+叶卡捷琳堡|Yekaterinburg|Ekaterinburg Standard Time
+符拉迪沃斯托克|Vladivostok|Vladivostok Standard Time
+海参崴|Vladivostok|Vladivostok Standard Time
+基辅|Kiev|FLE Standard Time
+明斯克|Minsk|Belarus Standard Time
+华沙|Warsaw|Central Europe Standard Time
+克拉科夫|Krakow|Central Europe Standard Time
+布拉格|Prague|Central Europe Standard Time
+布拉迪斯拉发|Bratislava|Central Europe Standard Time
+布达佩斯|Budapest|Central Europe Standard Time
+布加勒斯特|Bucharest|GTB Standard Time
+索菲亚|Sofia|FLE Standard Time
+雅典|Athens|GTB Standard Time
+塞萨洛尼基|Thessaloniki|GTB Standard Time
+贝尔格莱德|Belgrade|Central Europe Standard Time
+萨格勒布|Zagreb|Central Europe Standard Time
+卢布尔雅那|Ljubljana|Central Europe Standard Time
+萨拉热窝|Sarajevo|Central Europe Standard Time
+波德戈里察|Podgorica|Central Europe Standard Time
+斯科普里|Skopje|Central Europe Standard Time
+地拉那|Tirana|Central Europe Standard Time
+塔林|Tallinn|FLE Standard Time
+里加|Riga|FLE Standard Time
+维尔纽斯|Vilnius|FLE Standard Time
+基希讷乌|Chisinau|GTB Standard Time
+瓦莱塔|Valletta|W. Europe Standard Time
+摩纳哥|Monaco|W. Europe Standard Time
+安道尔城|Andorra la Vella|Romance Standard Time
+瓦杜兹|Vaduz|W. Europe Standard Time
+圣马力诺|San Marino|W. Europe Standard Time
+梵蒂冈城|Vatican City|W. Europe Standard Time
+开罗|Cairo|Egypt Standard Time
+亚历山大|Alexandria|Egypt Standard Time
+的黎波里|Tripoli|Libya Standard Time
+突尼斯|Tunis|W. Central Africa Standard Time
+阿尔及尔|Algiers|W. Central Africa Standard Time
+拉巴特|Rabat|Morocco Standard Time
+卡萨布兰卡|Casablanca|Morocco Standard Time
+丹吉尔|Tangier|Morocco Standard Time
+达喀尔|Dakar|GMT Standard Time
+阿克拉|Accra|GMT Standard Time
+阿布贾|Abuja|W. Central Africa Standard Time
+拉各斯|Lagos|W. Central Africa Standard Time
+内罗毕|Nairobi|E. Africa Standard Time
+亚的斯亚贝巴|Addis Ababa|E. Africa Standard Time
+达累斯萨拉姆|Dar es Salaam|E. Africa Standard Time
+坎帕拉|Kampala|E. Africa Standard Time
+基加利|Kigali|South Africa Standard Time
+布琼布拉|Bujumbura|South Africa Standard Time
+哈拉雷|Harare|South Africa Standard Time
+卢萨卡|Lusaka|South Africa Standard Time
+马普托|Maputo|South Africa Standard Time
+约翰内斯堡|Johannesburg|South Africa Standard Time
+开普敦|Cape Town|South Africa Standard Time
+比勒陀利亚|Pretoria|South Africa Standard Time
+温得和克|Windhoek|Namibia Standard Time
+哈博罗内|Gaborone|South Africa Standard Time
+布拉柴维尔|Brazzaville|W. Central Africa Standard Time
+金沙萨|Kinshasa|W. Central Africa Standard Time
+雅温得|Yaounde|W. Central Africa Standard Time
+杜阿拉|Douala|W. Central Africa Standard Time
+班吉|Bangui|W. Central Africa Standard Time
+恩贾梅纳|N'Djamena|W. Central Africa Standard Time
+巴马科|Bamako|GMT Standard Time
+瓦加杜古|Ouagadougou|GMT Standard Time
+科纳克里|Conakry|GMT Standard Time
+弗里敦|Freetown|GMT Standard Time
+蒙罗维亚|Monrovia|GMT Standard Time
+努瓦克肖特|Nouakchott|GMT Standard Time
+尼亚美|Niamey|W. Central Africa Standard Time
+洛美|Lome|GMT Standard Time
+科托努|Cotonou|W. Central Africa Standard Time
+喀土穆|Khartoum|Central Africa Standard Time
+朱巴|Juba|E. Africa Standard Time
+摩加迪沙|Mogadishu|E. Africa Standard Time
+吉布提|Djibouti|E. Africa Standard Time
+阿斯马拉|Asmara|E. Africa Standard Time
+塔那那利佛|Antananarivo|E. Africa Standard Time
+路易港|Port Louis|Mauritius Standard Time
+维多利亚|Victoria|Mauritius Standard Time
+莫罗尼|Moroni|E. Africa Standard Time
+纽约|New York|Eastern Standard Time
+华盛顿|Washington|Eastern Standard Time
+波士顿|Boston|Eastern Standard Time
+费城|Philadelphia|Eastern Standard Time
+亚特兰大|Atlanta|Eastern Standard Time
+迈阿密|Miami|Eastern Standard Time
+芝加哥|Chicago|Central Standard Time
+底特律|Detroit|Eastern Standard Time
+休斯顿|Houston|Central Standard Time
+达拉斯|Dallas|Central Standard Time
+丹佛|Denver|Mountain Standard Time
+盐湖城|Salt Lake City|Mountain Standard Time
+凤凰城|Phoenix|US Mountain Standard Time
+拉斯维加斯|Las Vegas|Pacific Standard Time
+洛杉矶|Los Angeles|Pacific Standard Time
+旧金山|San Francisco|Pacific Standard Time
+西雅图|Seattle|Pacific Standard Time
+波特兰|Portland|Pacific Standard Time
+圣地亚哥|San Diego|Pacific Standard Time
+檀香山|Honolulu|Hawaiian Standard Time
+安克雷奇|Anchorage|Alaskan Standard Time
+多伦多|Toronto|Eastern Standard Time
+渥太华|Ottawa|Eastern Standard Time
+蒙特利尔|Montreal|Eastern Standard Time
+温哥华|Vancouver|Pacific Standard Time
+卡尔加里|Calgary|Mountain Standard Time
+埃德蒙顿|Edmonton|Mountain Standard Time
+温尼伯|Winnipeg|Central Standard Time
+魁北克市|Quebec City|Eastern Standard Time
+墨西哥城|Mexico City|Central Standard Time
+瓜达拉哈拉|Guadalajara|Central Standard Time
+蒙特雷|Monterrey|Central Standard Time
+蒂华纳|Tijuana|Pacific Standard Time
+坎昆|Cancun|Eastern Standard Time
+哈瓦那|Havana|Cuba Standard Time
+金斯敦|Kingston|SA Pacific Standard Time
+太子港|Port-au-Prince|Eastern Standard Time
+圣多明各|Santo Domingo|SA Western Standard Time
+拿骚|Nassau|Eastern Standard Time
+圣胡安|San Juan|SA Western Standard Time
+危地马拉城|Guatemala City|Central America Standard Time
+圣萨尔瓦多|San Salvador|Central America Standard Time
+特古西加尔巴|Tegucigalpa|Central America Standard Time
+马那瓜|Managua|Central America Standard Time
+圣何塞|San Jose|Central America Standard Time
+巴拿马城|Panama City|SA Pacific Standard Time
+波哥大|Bogota|SA Pacific Standard Time
+麦德林|Medellin|SA Pacific Standard Time
+卡利|Cali|SA Pacific Standard Time
+基多|Quito|SA Pacific Standard Time
+瓜亚基尔|Guayaquil|SA Pacific Standard Time
+利马|Lima|SA Pacific Standard Time
+拉巴斯|La Paz|SA Western Standard Time
+苏克雷|Sucre|SA Western Standard Time
+亚松森|Asuncion|Paraguay Standard Time
+蒙得维的亚|Montevideo|Montevideo Standard Time
+布宜诺斯艾利斯|Buenos Aires|Argentina Standard Time
+科尔多瓦|Cordoba|Argentina Standard Time
+罗萨里奥|Rosario|Argentina Standard Time
+圣地亚哥|Santiago|Pacific SA Standard Time
+瓦尔帕莱索|Valparaiso|Pacific SA Standard Time
+巴西利亚|Brasilia|E. South America Standard Time
+圣保罗|Sao Paulo|E. South America Standard Time
+里约热内卢|Rio de Janeiro|E. South America Standard Time
+萨尔瓦多|Salvador|E. South America Standard Time
+累西腓|Recife|E. South America Standard Time
+贝洛奥里藏特|Belo Horizonte|E. South America Standard Time
+卡拉卡斯|Caracas|Venezuela Standard Time
+乔治敦|Georgetown|SA Western Standard Time
+帕拉马里博|Paramaribo|SA Eastern Standard Time
+卡宴|Cayenne|SA Eastern Standard Time
+悉尼|Sydney|AUS Eastern Standard Time
+墨尔本|Melbourne|AUS Eastern Standard Time
+堪培拉|Canberra|AUS Eastern Standard Time
+布里斯班|Brisbane|E. Australia Standard Time
+阿德莱德|Adelaide|Cen. Australia Standard Time
+珀斯|Perth|W. Australia Standard Time
+霍巴特|Hobart|Tasmania Standard Time
+达尔文|Darwin|AUS Central Standard Time
+奥克兰|Auckland|New Zealand Standard Time
+惠灵顿|Wellington|New Zealand Standard Time
+基督城|Christchurch|New Zealand Standard Time
+苏瓦|Suva|Fiji Standard Time
+莫尔兹比港|Port Moresby|West Pacific Standard Time
+努库阿洛法|Nuku'alofa|Tonga Standard Time
+阿皮亚|Apia|Samoa Standard Time
+霍尼亚拉|Honiara|Central Pacific Standard Time
+维拉港|Port Vila|Central Pacific Standard Time
+帕利基尔|Palikir|West Pacific Standard Time
+富纳富提|Funafuti|UTC+12
+马朱罗|Majuro|UTC+12
+南塔拉瓦|Tarawa|UTC+12
+努美阿|Noumea|Central Pacific Standard Time

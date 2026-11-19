@@ -1,0 +1,106 @@
+阿拉巴马|Alabama|Central Standard Time
+阿拉斯加|Alaska|Alaskan Standard Time
+亚利桑那|Arizona|US Mountain Standard Time
+阿肯色|Arkansas|Central Standard Time
+加利福尼亚|California|Pacific Standard Time
+科罗拉多|Colorado|Mountain Standard Time
+康涅狄格|Connecticut|Eastern Standard Time
+特拉华|Delaware|Eastern Standard Time
+佛罗里达|Florida|Eastern Standard Time
+佐治亚|Georgia|Eastern Standard Time
+夏威夷|Hawaii|Hawaiian Standard Time
+爱达荷|Idaho|Mountain Standard Time
+伊利诺伊|Illinois|Central Standard Time
+印第安纳|Indiana|US Eastern Standard Time
+艾奥瓦|Iowa|Central Standard Time
+堪萨斯|Kansas|Central Standard Time
+肯塔基|Kentucky|Eastern Standard Time
+路易斯安那|Louisiana|Central Standard Time
+缅因|Maine|Eastern Standard Time
+马里兰|Maryland|Eastern Standard Time
+马萨诸塞|Massachusetts|Eastern Standard Time
+密歇根|Michigan|Eastern Standard Time
+明尼苏达|Minnesota|Central Standard Time
+密西西比|Mississippi|Central Standard Time
+密苏里|Missouri|Central Standard Time
+蒙大拿|Montana|Mountain Standard Time
+内布拉斯加|Nebraska|Central Standard Time
+内华达|Nevada|Pacific Standard Time
+新罕布什尔|New Hampshire|Eastern Standard Time
+新泽西|New Jersey|Eastern Standard Time
+新墨西哥|New Mexico|Mountain Standard Time
+纽约|New York|Eastern Standard Time
+北卡罗来纳|North Carolina|Eastern Standard Time
+北达科他|North Dakota|Central Standard Time
+俄亥俄|Ohio|Eastern Standard Time
+俄克拉何马|Oklahoma|Central Standard Time
+俄勒冈|Oregon|Pacific Standard Time
+宾夕法尼亚|Pennsylvania|Eastern Standard Time
+罗得岛|Rhode Island|Eastern Standard Time
+南卡罗来纳|South Carolina|Eastern Standard Time
+南达科他|South Dakota|Central Standard Time
+田纳西|Tennessee|Eastern Standard Time
+得克萨斯|Texas|Central Standard Time
+犹他|Utah|Mountain Standard Time
+佛蒙特|Vermont|Eastern Standard Time
+弗吉尼亚|Virginia|Eastern Standard Time
+华盛顿|Washington|Pacific Standard Time
+西弗吉尼亚|West Virginia|Eastern Standard Time
+威斯康星|Wisconsin|Central Standard Time
+怀俄明|Wyoming|Mountain Standard Time
+哥伦比亚特区|District of Columbia|Eastern Standard Time
+不列颠哥伦比亚|British Columbia|Pacific Standard Time
+艾伯塔|Alberta|Mountain Standard Time
+萨斯喀彻温|Saskatchewan|Central Standard Time
+马尼托巴|Manitoba|Central Standard Time
+安大略|Ontario|Eastern Standard Time
+魁北克|Quebec|Eastern Standard Time
+新不伦瑞克|New Brunswick|Atlantic Standard Time
+新斯科舍|Nova Scotia|Atlantic Standard Time
+爱德华王子岛|Prince Edward Island|Atlantic Standard Time
+纽芬兰|Newfoundland|Newfoundland Standard Time
+育空|Yukon|Pacific Standard Time
+西北地区|Northwest Territories|Mountain Standard Time
+努纳武特|Nunavut|Eastern Standard Time
+新南威尔士|New South Wales|AUS Eastern Standard Time
+维多利亚|Victoria|AUS Eastern Standard Time
+昆士兰|Queensland|E. Australia Standard Time
+南澳大利亚|South Australia|Cen. Australia Standard Time
+西澳大利亚|Western Australia|W. Australia Standard Time
+塔斯马尼亚|Tasmania|Tasmania Standard Time
+北领地|Northern Territory|AUS Central Standard Time
+首都领地|Australian Capital Territory|AUS Eastern Standard Time
+北京|Beijing|China Standard Time
+上海|Shanghai|China Standard Time
+天津|Tianjin|China Standard Time
+重庆|Chongqing|China Standard Time
+河北|Hebei|China Standard Time
+山西|Shanxi|China Standard Time
+辽宁|Liaoning|China Standard Time
+吉林|Jilin|China Standard Time
+黑龙江|Heilongjiang|China Standard Time
+江苏|Jiangsu|China Standard Time
+浙江|Zhejiang|China Standard Time
+安徽|Anhui|China Standard Time
+福建|Fujian|China Standard Time
+江西|Jiangxi|China Standard Time
+山东|Shandong|China Standard Time
+河南|Henan|China Standard Time
+湖北|Hubei|China Standard Time
+湖南|Hunan|China Standard Time
+广东|Guangdong|China Standard Time
+海南|Hainan|China Standard Time
+四川|Sichuan|China Standard Time
+贵州|Guizhou|China Standard Time
+云南|Yunnan|China Standard Time
+陕西|Shaanxi|China Standard Time
+甘肃|Gansu|China Standard Time
+青海|Qinghai|China Standard Time
+内蒙古|Inner Mongolia|China Standard Time
+广西|Guangxi|China Standard Time
+宁夏|Ningxia|China Standard Time
+新疆|Xinjiang|China Standard Time
+西藏|Tibet|China Standard Time
+香港|Hong Kong|China Standard Time
+澳门|Macau|China Standard Time
+台湾|Taiwan|China Standard Time华盛顿州|Washington State|Pacific Standard Time
